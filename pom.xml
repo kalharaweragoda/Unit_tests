@@ -28,6 +28,12 @@
             <version>4.1.0-M4</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.44</version>
+        </dependency>
+
     </dependencies>
 
 </project>
